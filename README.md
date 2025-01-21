@@ -78,5 +78,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Thanks for trying the To-Do List App! We look forward to your feedback and suggestions.
-
