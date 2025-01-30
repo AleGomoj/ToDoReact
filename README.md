@@ -2,6 +2,7 @@
 **Practice for class**
 
 This is a To-Do List simple project developed with React and set up to be used in IntelliJ IDEA.
+[✅ Try Me](https://to-do-react-ebon-three.vercel.app/)
 
 ## Requirements
 
@@ -74,7 +75,7 @@ If you wish to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License.
 
 ---
 
